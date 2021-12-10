@@ -1,7 +1,21 @@
-Olá! Eu sou o Ivanielson Cabral 👋
+# Olá! Eu sou o Ivanielson Cabral 👋
 
-- 👨🏽‍🎓 Atualmente estudo desenvolvimento Web
-- 😄 Pronouns: ele/dele
+<div align="left">
+  <p>
+    - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web
+  </p>
+  <p>
+    - 😄 Pronouns: ele/dele
+  </p>
+    <div>
+      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="350" />
+   </div>
+</div>
+
+<br />
+<br />
+<br />
+<br />
 
 <div>
   <a href="https://github.com/ivanielson">
