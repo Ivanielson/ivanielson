@@ -7,8 +7,8 @@
   <p>
     - 😄 Pronouns: ele/dele
   </p>
-    <div>
-      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="350" />
+    <div align="center">
+      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="400" />
    </div>
 </div>
 
@@ -17,13 +17,13 @@
 <br />
 <br />
 
-<div>
+<div align="center">
   <a href="https://github.com/ivanielson">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivanielson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanielson&layout=compact&langs_count=7&theme=react"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ivanielson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanielson&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-<div style="display: inline_block"><hr />
+<div align="center" style="display: inline_block"><hr />
   <img align="center" alt="nielso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nielso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nielso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
