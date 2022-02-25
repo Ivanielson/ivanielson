@@ -2,13 +2,13 @@
 
 <div align="left">
   <p>
-    - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web
+    - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web na Trybe
   </p>
   <p>
     - 😄 Pronouns: ele/dele
   </p>
     <div align="center">
-      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="400" />
+      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="300" />
    </div>
 </div>
 
