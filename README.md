@@ -1,8 +1,11 @@
-# Olá! Eu sou o Ivanielson Cabral 👋
+# Olá! Me chamo Ivanielson Cabral 👋
 
 <div align="left">
   <p>
-    - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web na Trybe
+    - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>
+  </p>
+  <p>
+    - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
   </p>
   <p>
     - 😄 Pronouns: ele/dele
