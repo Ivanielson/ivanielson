@@ -5,6 +5,18 @@
     - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>
   </p>
   <p>
+    - ⚽ Adoro futebol.
+  </p>
+  <p>
+    - 🎞️ Gosto de asisitir filmes e séries.
+  </p>
+  <p>
+    - 🎮 Curto jogos virtuais, de preferência futebol (Pes).
+  </p>
+  <p>
+    - 🎵 E adoro ouvir música.
+  </p>
+  <p>
     - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
   </p>
   <p>
