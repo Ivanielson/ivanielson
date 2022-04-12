@@ -2,22 +2,13 @@
 
 <div align="left">
   <p>
-    - 👨🏽‍🎓 Atualmente estudo desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>
-  </p>
-  <p>
-    - ⚽ Adoro futebol.
-  </p>
-  <p>
-    - 🎞️ Gosto de asisitir filmes e séries.
-  </p>
-  <p>
-    - 🎮 Curto jogos virtuais, de preferência futebol (Pes).
-  </p>
-  <p>
-    - 🎵 E adoro ouvir música.
+    - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de asisitir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
   </p>
   <p>
     - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
+  </p>
+  <p>
+    - 📬 E-mail: ivanielson2011@gmail.com
   </p>
   <p>
     - 😄 Pronouns: ele/dele
@@ -52,10 +43,7 @@
   ##
   
 <div align="center" > 
-  <a href="https://www.instagram.com/ivanielsoncabral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/ivanielson.cabral" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ivanielson2011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  <a href="https://www.linkedin.com/in/ivanielsoncabral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   
   ![Snake animation](https://github.com/ivanielson/ivanielson/blob/output/github-contribution-grid-snake.svg)
  
