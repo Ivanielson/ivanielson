@@ -2,7 +2,7 @@
 
 <div align="left">
   <p>
-    - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de asisitir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
+    - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de assistir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
   </p>
   <p>
     - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
@@ -14,7 +14,7 @@
     - 😄 Pronouns: ele/dele
   </p>
     <div align="center">
-      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="300" />
+      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="250" />
    </div>
 </div>
 
