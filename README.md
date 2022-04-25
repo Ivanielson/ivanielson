@@ -16,7 +16,7 @@
     </p>
   </div>
   <div align="center">
-    <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="250" />
+    <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="220" />
  </div>
 </div>
 
@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/ivanielson">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ivanielson&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanielson&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ivanielson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanielson&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <div align="center" style="display: inline_block"><hr />
