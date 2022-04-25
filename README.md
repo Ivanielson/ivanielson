@@ -1,32 +1,32 @@
 # Olá! Me chamo Ivanielson Cabral 👋
 
-<div align="left">
-  <p>
-    - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de assistir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
-  </p>
-  <p>
-    - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
-  </p>
-  <p>
-    - 📬 E-mail: ivanielson2011@gmail.com
-  </p>
-  <p>
-    - 😄 Pronouns: ele/dele
-  </p>
-    <div align="center">
-      <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="250" />
-   </div>
+<div>
+  <div align="left">
+    <p>
+      - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de assistir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
+    </p>
+    <p>
+      - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
+    </p>
+    <p>
+      - 📬 E-mail: ivanielson2011@gmail.com
+    </p>
+    <p>
+      - 😄 Pronouns: ele/dele
+    </p>
+  </div>
+  <div align="center">
+    <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="250" />
+ </div>
 </div>
 
-<br />
-<br />
 <br />
 <br />
 
 <div align="center">
   <a href="https://github.com/ivanielson">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ivanielson&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanielson&layout=compact&langs_count=7&theme=vue"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ivanielson&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanielson&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div align="center" style="display: inline_block"><hr />
