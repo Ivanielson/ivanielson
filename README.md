@@ -49,10 +49,6 @@
  
 </div>
   
-  <br />
-  <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/ivanielson/count.svg" />
-  </p>
 <!--
 **Ivanielson/ivanielson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
