@@ -16,7 +16,7 @@
     </p>
   </div>
   <div align="center">
-    <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="220" />
+    <img alt="Illustration of programmer coding" src="https://github.com/Ivanielson/ivanielson/blob/main/Programming.svg" width="500" />
  </div>
 </div>
 
