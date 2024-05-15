@@ -6,7 +6,7 @@
       - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de assistir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
     </p>
     <p>
-      - 👨‍💻 Sou apaixonado pela tecnologia, por toda a praticidade, facilidade, comodidade e simplicidade que ela nos oferede no nosso dia a dia, solucionando problemas. Desde o acesso a informação de tudo que acontece ao redor do mundo por meio da internet, a facilidade de se adiquirir algum por meio de lojas virtuais sem ter que sair de casa.
+      - 👨‍💻 Sou apaixonado pela tecnologia, pois ela simplifica minha vida de inúmeras maneiras. Resolver questões bancárias, fazer compras online, pedir comida ou transporte, e até mesmo ficar por dentro das notícias em tempo real. Tudo isso está ao meu alcance com apenas um toque ou um clique. A tecnologia torna minha rotina mais prática e conveniente, permitindo que eu resolva tarefas rapidamente e com facilidade.
     </p>
     <p>
       - 📬 E-mail: ivanielson2011@gmail.com
