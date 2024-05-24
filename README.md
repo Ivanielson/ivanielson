@@ -1,4 +1,4 @@
-# Olá! Me chamo Ivanielson Cabral 👋
+# Olá! Me chamo Ivanielson Cabral 👋🏽
 
 <div>
   <div align="left">
@@ -6,7 +6,7 @@
       - Hobbies: ⚽ Adoro futebol, 🎞️ Gosto de assistir filmes e séries, 🎮 Curto jogos virtuais, de preferência futebol (Pes), 🎵 E adoro ouvir música.
     </p>
     <p>
-      - 👨‍💻 Sou apaixonado pela tecnologia, pois ela simplifica minha vida de inúmeras maneiras. Resolver questões bancárias, fazer compras online, pedir comida ou transporte, e até mesmo ficar por dentro das notícias em tempo real. Tudo isso está ao meu alcance com apenas um toque ou um clique. A tecnologia torna minha rotina mais prática e conveniente, permitindo que eu resolva tarefas rapidamente e com facilidade.
+      - 🧑🏽‍💻 Sou apaixonado pela tecnologia, pois ela simplifica minha vida de inúmeras maneiras. Resolver questões bancárias, fazer compras online, pedir comida ou transporte, e até mesmo ficar por dentro das notícias em tempo real. Tudo isso está ao meu alcance com apenas um toque ou um clique. A tecnologia torna minha rotina mais prática e conveniente, permitindo que eu resolva tarefas rapidamente e com facilidade.
     </p>
     <p>
       - 📬 E-mail: ivanielson2011@gmail.com
