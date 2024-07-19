@@ -40,9 +40,9 @@
   <img align="center" alt="nielso-mysql" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="nielso-mongodb" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="nielso-aws" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center" alt="nielso-k8s" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="nielso-ansible" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
-  <img align="center" alt="nielso-terraform" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<!--   <img align="center" alt="nielso-k8s" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> -->
+<!--   <img align="center" alt="nielso-ansible" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" /> -->
+<!--   <img align="center" alt="nielso-terraform" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> -->
 </div>
   
   ##
